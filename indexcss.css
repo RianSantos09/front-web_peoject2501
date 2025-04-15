@@ -4,10 +4,23 @@ img{
 
 div#img{
    text-align: center;
+   background-color: rgb(169, 132, 203);
+   border-radius: 30px;
+   margin-left: 40px;
+   margin-right: 40px;
 }
 
 header{
-    background-color: rgb(124, 121, 121);
+    background-color: rgb(169, 132, 203);
     color: aliceblue;
     text-align: center;
 }
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(169, 132, 203);
+    border-top: 40px;
+    width:100%;
+}
+
