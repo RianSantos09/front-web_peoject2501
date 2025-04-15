@@ -1,0 +1,13 @@
+img{
+    max-width:579px;
+}
+
+div#img{
+   text-align: center;
+}
+
+header{
+    background-color: rgb(124, 121, 121);
+    color: aliceblue;
+    text-align: center;
+}
